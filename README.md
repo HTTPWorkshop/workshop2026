@@ -18,7 +18,7 @@ See [previous years' reports](https://httpworkshop.org/) for an idea of what goe
 
 We anticipate most major HTTP implementations being represented, including browsers, servers, intermediaries, libraries, and tools.
 
-In addition, we'd like to see active participation from practitioners at scale. If you work with large-scale HTTP deployments, whether that's serving "traditional" Web pages or using HTTP for back-end APIs, please consider attending.
+In addition, we'd like to see active participation from practitioners at scale. If you work with large-scale HTTP deployments, whether that's serving "traditional" Web pages or using HTTP for back-end APIs, please consider attending; we'd love to hear about your experiences and see any data you can bring.
 
 We still want to **grow the diversity of our participants**. If you know someone who cares about HTTP, has made contributions, or wants to build their career around it, please tell us!
 
@@ -38,7 +38,7 @@ We have limited space (about 40 people), and want to make sure the discussion is
 
 We’re looking for people who can talk about things like:
 
-* Data and insights about how HTTP is implemented and used
+* Data, experience and insights about how HTTP is implemented and used
 * Problems in existing HTTP implementations and/or deployments
 * Ways to improve core aspects of HTTP such as performance, security, or reliability
 * Useful extensions to HTTP
