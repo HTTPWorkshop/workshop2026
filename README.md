@@ -59,8 +59,8 @@ Please [make a statement of interest using this form]() as soon as possible and 
 ## Important Dates
 
 * Statement of Interest by: 20 March 2026
-* Attendees Notified by: 15 April 2026
-* Attendee Confirmation by: 1 May 2026
+* Attendees Notified by: 1 April 2026
+* Attendee Confirmation by: 15 April 2026
 * HTTP Workshop: 14-16 July 2026
 
 
