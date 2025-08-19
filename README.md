@@ -70,7 +70,7 @@ Thanks to [Adobe](https://adobe.com/) for sponsoring our venue.
 
 [![Adobe](asset/adobe.svg)](https://adobe.com/)
 
-*If you would like to sponsor a lunch or dinner, please contact [Mark Nottingham](mailto:mnot@mnot.net).*
+*If you would like to sponsor a dinner or social event, please contact [Mark Nottingham](mailto:mnot@mnot.net).*
 
 
 ## Program Committee
