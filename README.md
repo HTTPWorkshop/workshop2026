@@ -53,7 +53,7 @@ Note that if necessary, we will limit representation from single companies and p
 
 All attendees will be expected to adhere to the [Code of Conduct](https://httpworkshop.org/conduct) and the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule). We will publish a summary of what happens at the Workshop that includes a list of participants.
 
-Please [make a statement of interest using this form]() as soon as possible and no later than **15 April 2026**.
+Please [make a statement of interest using this form]() as soon as possible and no later than **20 March 2026**.
 
 
 ## Important Dates
